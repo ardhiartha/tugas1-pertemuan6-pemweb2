@@ -7,7 +7,7 @@
 
 ## Bagian 1: Statistik Buku
 
-![Statistik Buku1](screenshots/statistik_buku1.png)
+![Statistik Buku1](screenshots/screenshots/statistik_buku1.png)
 ![Statistik Buku2](screenshots/statistik_buku2.png)
 ![Statistik Buku3](screenshots/statistik_buku3.png)
 
